@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="Camera2D" type="Camera2D"]
+position = Vector2( 200, 112 )
+current = true
+zoom = Vector2( 0.25, 0.25 )
+smoothing_enabled = true
